@@ -9,3 +9,9 @@ ryan:
   first_name: 'ryan'
   last_name: 'dogg'
   email: 'rdogg@somewhere.com'
+
+cali:
+  profile_name: 'cali'
+  first_name: 'cali'
+  last_name: 'thepoodle'
+  email: 'iamapoodle@gmail.com'
